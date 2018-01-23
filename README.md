@@ -31,4 +31,4 @@ I don't suggest restarting, just removing (above)
 #### Don't forget to ckeck [Garlicoin.io](https://garlicoin.io/) and [Garlic Recipes by Pandawan](https://pandawanfr.github.io/GarlicRecipes/) as it is the official resource guide for everything Garlicoin.
 
 Did you enjoy this? You can send me some garlic love:
->GffgBWvW9qypM3aDc5kTvP8GuYVvUQqgn2
+>Gfkokuadnhq27GZMUuVzf1SehYWWkesK4q
