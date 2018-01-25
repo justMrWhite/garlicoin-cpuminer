@@ -8,11 +8,11 @@ That was easy, I followed the instructions by:
 After that, I just decided that it would look really cute in a container... 
 
 ## Start the fun:
-1. Install docker (check the interwebs for this)
+1. Install docker in case you don't have it yet (check the interwebs for this).
 2. Open your terminal and run this:\
 `docker container run -it --name garlicbread justmrwhite/garlicoin-cpuminer bash`\
-you can replace *garlicbread* for whatever name you want to give your container (I would suggest the name of the pool).
-3. As instructed in Garlic Recipes, you need to specify the pool address, your wallet, and the algorithm; so the example is this one to also run in your terminal:\
+you can replace *garlicbread* for whatever name you want to give your container.
+3. As instructed in Garlic Recipes, you need to specify the algorithm, pool address and your wallet; so the example is this one, to also run in your terminal (after step 2, which means you already have the container running):\
 `./cpuminer --algo=scrypt:4096 -o stratum+tcp://pool.grlc-bakery.fun:3333 -u <your wallet address here>`\
 That was just an example, but you can also check a [list of pools](https://pandawanfr.github.io/GarlicRecipes/pool-mining.html#main-net) and their instructions.
 
